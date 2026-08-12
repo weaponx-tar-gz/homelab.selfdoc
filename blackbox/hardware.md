@@ -56,3 +56,8 @@ on bottom.
 - Installed 8TB Seagate Barracuda HDD on bottom of case.
 - Installed both NVME SSD using new stand offs and screws onto new mobo.
 - Should be up and running tomorrow after AIO is installed.
+## 8/8/26
+- Attempted to install rest of PC parts, however AIO was too large.
+- Found spare CPU fan install to test boot.
+- Orange PCIE light coming on, do not have enough time today to troubleshoot. Install and rearrangement of fans and other parts took four hours.
+- Will attempt fix next week.
