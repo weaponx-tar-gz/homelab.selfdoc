@@ -19,5 +19,4 @@ Current projects being worked on are:
   - Personal use laptop.
   
 - ThinkPad T470p
-  - Boots CachyOS w/ Hyprland.
-  - Used to practice terminal understanding and Linux ricing.
+  - Boots CachyOS w/ Hyprland. (Going to swtich to wayland cinnamon GNOME)
