@@ -55,9 +55,16 @@ on bottom.
 - Re-installed case fans (2) along bottom.
 - Installed 8TB Seagate Barracuda HDD on bottom of case.
 - Installed both NVME SSD using new stand offs and screws onto new mobo.
-- Should be up and running tomorrow after AIO is installed.
+- Should be up and running after AIO is installed.
 ## 8/8/26
-- Attempted to install rest of PC parts, however AIO was too large.
-- Found spare CPU fan install to test boot.
-- Orange PCIE light coming on, do not have enough time today to troubleshoot. Install and rearrangement of fans and other parts took four hours.
-- Will attempt fix next week.
+- Moved top case fans to bottom of case.
+- Attempted to install AIO however it was too large.
+- Found spare fan splitter needed for CPU fan.
+- Orange PCIE light coming on.
+- Flashed BIOs and tested with/without GPU, same issue occurs.
+## 8/13/26
+- Uninstalled Bazzite NVME drive and 8TB Barracuda HDD, PC booted to Windows after few minutes
+  - The new motherboard bios needed to initalize with an OS, so I removed Linux to prevent conflict and it booted properly.
+  - Reinstalled Linux NVME and previous 2TB Barracuda HDD.
+- Installed an additional 16gb of ram (total of 80gb)
+- Blackbox now running again.
